@@ -1,0 +1,16 @@
+{
+  "name" : "driving-distance-calculator-application",
+  "version" : "v0.1.0",
+  "description" : "Application to calculate driving distance between given locations",
+  "tags" : [ "driving-distance", "driving-duration","google-distancematrix" ],
+  "engines" : {
+    "node" : ">=0.10"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : ""
+  },
+  "dependencies": {
+    "googlemaps": "1.*",
+  }
+}
